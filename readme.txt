@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 dev add merge
 dev:work has not finish
 dev:work finished
+test add github
